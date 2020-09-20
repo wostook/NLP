@@ -1,6 +1,6 @@
 # LDA topic modelling and sentiment analysis of scraped Twitter data
 ![image](https://github.com/wostook/NLP/blob/master/data/WordCloud.JPG)
-In a project I scraped arund 13000 tweets with #conspiracytheory tag, posted from the 1st of July till the 10th of August 2020. I processed text and extracted 7 main topics, gaining insight about the most discussed issues and the words that frequently appear within each topic. Additionally I run sentiment analysis on the tweets, trying to get know how people feel about topics they write about. 
+In a project I scraped arund 13000 tweets with #conspiracytheory tag, posted from the 1st of July till the 10th of August 2020. I processed text and extracted 7 main topics, gaining insight about the most discussed issues and the words that frequently appear within each topic. Additionally I ran sentiment analysis on the tweets, trying to get know how people feel about topics they write about. 
 
 ## Motivation 
 
